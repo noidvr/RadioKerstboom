@@ -1,22 +1,10 @@
-
-> Open deze pagina op [https://gamearnoyt.github.io/radiokerstboom/](https://gamearnoyt.github.io/radiokerstboom/)
-
-## Gebruiken als extensie
-
-Deze repository kan worden toegevoegd als **extensie** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik op **Nieuw project**
-* klik op **Extensies** onder het tandwielmenu
-* zoeken naar **https://github.com/gamearnoyt/radiokerstboom** en importeren
-
 ## Dit project bewerken
 
 Om deze repository te bewerken in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klik op **Importeren** en klik vervolgens op **Importeer URL**
-* plak **https://github.com/gamearnoyt/radiokerstboom** en klik op importeren
+* plak **https://github.com/noidvr/radiokerstboom** en klik op importeren
 
 #### Metadata (gebruikt voor zoeken, rendering)
 
